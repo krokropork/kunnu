@@ -20,7 +20,11 @@
       "prefix": "app",
       "styles": [
         "styles.css",
-        "../node_modules/font-awesome/css/font-awesome.css"
+        "../node_modules/font-awesome/css/font-awesome.css",
+        "assets/css/new-age.css",
+        "assets/css/bootstrap/bootstrap.css",
+        "assets/css/bootstrap/bootstrap-grid.css",
+        "assets/css/bootstrap//bootstrap-reboot.css"
       ],
       "scripts": [
 

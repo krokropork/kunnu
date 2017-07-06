@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 
 
 export class AppComponent {
-  title = 'สวัสดี Kunnu!';
+  title = 'Start Angular 4' ;
+  menu = 'เมนู';
 }
